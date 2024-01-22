@@ -1,4 +1,4 @@
-# JobLink-Express
+# JobLink_Express
 A Fast Track for Online Job Application
 <br>
 <h2>Problem statement:</h2>
