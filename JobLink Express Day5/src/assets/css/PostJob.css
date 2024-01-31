@@ -1,0 +1,48 @@
+.formgroupcp{
+    margin-left:6vh;
+    height:12vh;
+    display:block;
+    font-family: Roboto,sans-serif;
+    font-size: 18px;
+    margin-bottom:2vh;
+}
+.formgroupcd{
+    margin-left:4vh;
+    height:32vh;
+    display:block;
+    font-family: Roboto,sans-serif;
+    font-size: 18px;
+    margin-bottom:3vh;
+}
+.tearea1{
+    padding-left:2vh;
+}
+.prof1112{
+    width:50%;
+    margin-left:6vh;
+}
+.prof1113{
+    width:50%;
+    margin-left:6vh;
+}
+..proform1cc{
+    margin-left:2vh;
+    height:37vh;
+    width:93%;
+    /* padding:2vh; */
+    margin-top:2vh;
+    border-radius:2vh;
+    padding:3vh;
+    background-color:white;
+}
+.proform1po{
+    
+        margin-left:2vh;
+        height:147vh;
+        width:93%;
+        /* padding:2vh; */
+        margin-top:2vh;
+        border-radius:2vh;
+        background-color:white;
+    
+}
